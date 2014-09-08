@@ -1,0 +1,8 @@
+.idea
+.enb/tmp
+app/desktop/*/*
+app/bundle/*/*
+!*.bemdecl.js
+lib/*/*
+node_modules
+core__ender.*
