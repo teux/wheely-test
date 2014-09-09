@@ -3,6 +3,10 @@
 app/desktop/*/*
 app/bundle/*/*
 !*.bemdecl.js
+!_*.js
+!_*.css
+!*.html.js
+!*.lcm.js
 lib/*/*
 node_modules
 core__ender.*
